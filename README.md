@@ -6,3 +6,4 @@
    git clone URL
    ```
 
+2. local에서 commit을 하나 더 쌓은 다음 remote로 push
