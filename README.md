@@ -9,3 +9,5 @@
 2. local에서 commit을 하나 더 쌓은 다음 remote로 push
 
 3. remote에서 commit을 하나 더 쌓은 다음 local에서 pull
+
+4. local에서 commit을 하나 더 쌓는다.
